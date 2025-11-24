@@ -1,1 +1,1 @@
-test ok
+console.js
