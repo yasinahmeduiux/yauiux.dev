@@ -1,1 +1,1 @@
-console.js
+console.js("Heelo World")
